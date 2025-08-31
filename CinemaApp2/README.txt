@@ -17,8 +17,8 @@ npx nodemon app.js
 Δημιουργία νέου React project :
 npx create-react-app frontend
 
-Μεταφορά του υπάρχοντος App.js στον νέο φάκελο src/.
-Αν υπάρχει παλιό App.js, κάνε overwrite στο νέο src/App.js.
+Μεταφορά του υπάρχοντος App.js και App.css στον νέο φάκελο frontend/src/.
+Αν υπάρχει παλιό App.js και App.css, κάνε overwrite.
 
 Frontend
 Πήγαινε στον φάκελο frontend:
@@ -38,5 +38,6 @@ npm start
 Προβολή ταινιών ανά cinema
 Κράτηση θέσεων με επιλογή ημερομηνίας, ώρας και θέσεων
 Προβολή ιστορικού κρατήσεων
+
 
 
